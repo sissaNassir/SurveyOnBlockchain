@@ -5,4 +5,5 @@ permetta di valorizzare i vantaggi di una BlockChain pubblica e di risaltarne le
 attraverso la creazione di Smart Contract complessi. In particolare, si è deciso di creare diversi
 Smart Contract che interagiscono tra di loro in un contesto puramente distribuito come quello
 delle BlockChain.
-Per maggiori informazioni si consulti la relazione Dapp_Ethereum.pdf
+Per maggiori informazioni si consulti la relazione Dapp_Ethereum.pdf.//
+Author: Zandoli Silvia
