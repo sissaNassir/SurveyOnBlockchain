@@ -6,6 +6,7 @@ attraverso la creazione di Smart Contract complessi. In particolare, si è decis
 Smart Contract che interagiscono tra di loro in un contesto puramente distribuito come quello
 delle BlockChain.
 Per maggiori informazioni si consulti la relazione Dapp_Ethereum.pdf. 
+
 Oltre alla relazione rendo disponibile anche gli Smart Contracts, visualizzabili qui:
 - https://gist.github.com/silviazandoli/c7ed67e8f0979df1f940af84ddea8d24
 
