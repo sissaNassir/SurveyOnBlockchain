@@ -11,4 +11,6 @@ Per maggiori informazioni si consulti la relazione Dapp_Ethereum.pdf.
 Oltre alla relazione rendo disponibili anche gli Smart Contracts che ho inserito nel progetto, visualizzabili qui:
 - https://gist.github.com/silviazandoli/c7ed67e8f0979df1f940af84ddea8d24
 
+Progetto fatto per l'esame di Sistemi Distribuiti, Università di Bologna, anno 2020
+
 
